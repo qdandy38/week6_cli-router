@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c301"],{f1bb:function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[e("h2",[t._v("這是結帳頁面")]),e("button",{staticClass:"btn btn-outline-primary",on:{click:function(n){return t.goComplete()}}},[t._v("點我前往結帳完成")])])},u=[],c={methods:{goComplete:function(){this.$router.push("/complete")}}},l=c,i=e("2877"),r=Object(i["a"])(l,o,u,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d22c301.b31fa57a.js.map
